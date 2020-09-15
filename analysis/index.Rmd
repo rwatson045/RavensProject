@@ -18,3 +18,6 @@ wflow_build()
 *This page contains a sample analysis looking at the relationship between vitamin c dosage via ascorbic acid/orange juice supplements and teeth growth in guinea pigs! Cool huh?*
  
  
+## See the next team member's website here:
+
+**_Ricardo Muniz Trejo_** (https://rmuniztrejo.github.io/myproject/)
