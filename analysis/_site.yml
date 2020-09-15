@@ -1,7 +1,7 @@
-name: "RavensProject"
+name: RavensProject
 output_dir: ../docs
 navbar:
-  title: "RavensProject"
+  title: RavensProject
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/rwatson045/RavensProject
 output:
   workflowr::wflow_html:
     toc: yes
